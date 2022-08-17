@@ -1,0 +1,16 @@
+{
+  "fields": [
+    {
+      "default": null,
+      "name": "NAME",
+      "type": "string"
+    },
+    {
+      "name": "AGE",
+      "type": "string"
+    }
+  ],
+  "name": "schema1",
+  "namespace": "my.sr.demo",
+  "type": "record"
+}

@@ -1,0 +1,12 @@
+{
+  "fields": [
+    {
+      "default": null,
+      "name": "TYPE",
+      "type": "string"
+    }
+  ],
+  "name": "schema999",
+  "namespace": "my.sr.demo",
+  "type": "record"
+}
